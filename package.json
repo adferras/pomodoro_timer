@@ -1,0 +1,19 @@
+{
+  "name": "pomodoro_timer",
+  "version": "1.0.0",
+  "description": "This is a simple pomodoro timer built as an assignment from [FreeCodeCamp](http://www.freecodecamp.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adferras/pomodoro_timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adferras/pomodoro_timer/issues"
+  },
+  "homepage": "https://github.com/adferras/pomodoro_timer#readme"
+}
